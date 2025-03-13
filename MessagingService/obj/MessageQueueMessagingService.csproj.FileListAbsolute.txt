@@ -1,0 +1,8 @@
+D:\Adrian\WORK\.NET\TESTE\PrintecMesaging\MessagingService\bin\Debug\MessagingService.exe
+D:\Adrian\WORK\.NET\TESTE\PrintecMesaging\MessagingService\bin\Debug\MessagingService.pdb
+D:\Adrian\WORK\.NET\TESTE\PrintecMesaging\MessagingService\obj\Debug\ResolveAssemblyReference.cache
+D:\Adrian\WORK\.NET\TESTE\PrintecMesaging\MessagingService\obj\Debug\MessagingService.exe
+D:\Adrian\WORK\.NET\TESTE\PrintecMesaging\MessagingService\obj\Debug\MessagingService.pdb
+D:\Adrian\WORK\.NET\TESTE\PrintecMesaging\MessagingService\obj\Debug\MessagingService.ProjectInstaller.resources
+D:\Adrian\WORK\.NET\TESTE\PrintecMesaging\MessagingService\obj\Debug\PrintecMessagingService.csproj.GenerateResource.Cache
+D:\Adrian\WORK\.NET\TESTE\PrintecMesaging\MessagingService\bin\Debug\MessagingService.exe.config

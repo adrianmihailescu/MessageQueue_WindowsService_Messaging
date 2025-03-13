@@ -1,0 +1,8 @@
+D:\Adrian\WORK\.NET\TESTE\PrintecMesaging\UI\obj\Debug\ResolveAssemblyReference.cache
+D:\Adrian\WORK\.NET\TESTE\PrintecMesaging\UI\obj\Debug\UI.Form1.resources
+D:\Adrian\WORK\.NET\TESTE\PrintecMesaging\UI\obj\Debug\UI.Properties.Resources.resources
+D:\Adrian\WORK\.NET\TESTE\PrintecMesaging\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+D:\Adrian\WORK\.NET\TESTE\PrintecMesaging\UI\bin\Debug\UI.exe
+D:\Adrian\WORK\.NET\TESTE\PrintecMesaging\UI\bin\Debug\UI.pdb
+D:\Adrian\WORK\.NET\TESTE\PrintecMesaging\UI\obj\Debug\UI.exe
+D:\Adrian\WORK\.NET\TESTE\PrintecMesaging\UI\obj\Debug\UI.pdb
